@@ -12,8 +12,8 @@ redirect_from:
 
 ## Publications
 - **Emotional voice conversion using multitask learning with text-to-speech** <br>
-Tae-Ho Kim, Sungjae Cho, Shinkook Choi, Sejik Park, and Soo-Young Lee <br>
-The 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP2020)
+Tae-Ho Kim, _**Sungjae Cho**_, Shinkook Choi, Sejik Park, and Soo-Young Lee <br>
+_The 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP2020)_
 
 ## Talks
 - Dual Attention Networks for Visual Reference Resolution in Visual Dialog <br>
