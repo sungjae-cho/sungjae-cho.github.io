@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
+## My interests
+- Connectionism, artificial neural networks, machine learning, deep learning, neuroscience-inspired AI
+- Interpretability for deep learning models
+- Mathematical logic, computational mathematics, numerical analysis 
 
 ## Publications
 **Emotional voice conversion using multitask learning with text-to-speech** <br>
@@ -21,7 +24,7 @@ Taehyeong Kim, Seung Hee Yang, Hyunwoong Ko, **Sungjae Cho**, Jun-Young Lee, and
 _Real-World Recognition from Low-Quality Images and Videos (RLQ)_ in conjunction with ICCV 2019, Oct. 27, 2019. <br>
 [[abstract](https://drive.google.com/open?id=10eyLwjLMj8HcX-2BK2UgTYoTrEWlyIBB)]
 
-**Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models**
+**Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models** <br>
 **Sungjae Cho**, Jaeseo Lim, Chris Hickey, Jung Ae Park, and Byoung-Tak Zhang <br>
 _Proceedings of the 17th International Conference on Cognitive Modelling_ (ICCM 2019), Jul. 2019. pp.29-34. <br>
 [[PDF](https://drive.google.com/open?id=1fcDB0W0zzxnaI88OYD6MyIkoC4UT4sUq)]
@@ -51,6 +54,6 @@ _Proceedings of Korea Computer Congress 2017_ (KCC 2017), Jun. 2017, pp. 1814-18
 ## Demos
 
 **Learning to Transfer Multi-speaker Emotional Prosody to a Neutral Speaker** <br>
-Sungjae Cho, Sejik Park, Tae-Ho Kim, and Soo-Young Lee <br>
+**Sungjae Cho**, Sejik Park, Tae-Ho Kim, and Soo-Young Lee <br>
 Appeared at _Show and Tell_ in ICASSP 2020 <br>
 [[DemoPage](https://sungjae-cho.github.io/ICASSP2020_STDemo/)]
