@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gi-Cheon Kang"
+title                    : "Sungjae Cho"
 title_separator          : "-"
-name                     : &name "Gi-Cheon Kang" 
-description              : &description "Graduate student at SNU"
-url                      : https://gicheonkang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sungjae Cho" 
+description              : &description "AI researcher at KAIST"
+url                      : https://sungjae-cho.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gicheonkang.github.io"
+repository               : "sungjae-cho.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,10 +83,10 @@ author:
   name             : 
   avatar           : "profile.jpeg"
   bio              :
-  location         : "Seoul, Korea"
+  location         : "Daejeon, Korea"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=C6J7zI0AAAAJ&hl=en"
-  email            : "gchnkang@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=N2t7hB8AAAAJ&hl=en"
+  email            : "sj.cho@snu.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gicheonkang"
+  github           : "sungjae-cho"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "gchnkang" 
+  twitter          :
   vine             :
   weibo            :
   xing             :
