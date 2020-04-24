@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : Sungjae Cho
+  name             :
   avatar           : "profile_cho.jpg"
   bio              :
   location         : "Daejeon, Korea"
@@ -97,7 +97,7 @@ author:
   github           : "sungjae-cho"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "cho_sungjae"
   lastfm           :
   linkedin         : "sungjaecho"
   orcid            : 
