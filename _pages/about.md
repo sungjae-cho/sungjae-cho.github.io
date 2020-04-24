@@ -48,7 +48,9 @@ _Proceedings of Korea Computer Congress 2017_ (KCC 2017), Jun. 2017, pp. 1814-18
 
 
 
-## Talks
-- Dual Attention Networks for Visual Reference Resolution in Visual Dialog <br>
-<span style="font-size:16px;">Video Turing Test Workshop, ICCV 2019</span><br>
-<span style="font-size:16px;">T.TOC, SK Telecom AI Center</span><br>
+## Demos
+
+**Learning to Transfer Multi-speaker Emotional Prosody to a Neutral Speaker** <br>
+Sungjae Cho, Sejik Park, Tae-Ho Kim, and Soo-Young Lee <br>
+Appeared at _Show and Tell_ in ICASSP 2020 <br>
+[[DemoPage](https://sungjae-cho.github.io/ICASSP2020_STDemo/)]
