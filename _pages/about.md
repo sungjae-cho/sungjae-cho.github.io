@@ -12,7 +12,7 @@ redirect_from:
 I am a researcher in Information & Electronics Research Institute at [KAIST](http://kaist.ac.kr/).
 My current research topic is expressive speech synthesis, i.e., how to synthesize expressive speech with deep neural networks.
 Before joining KAIST, I was a research assistant in [Biointelligence Lab.](https://bi.snu.ac.kr/) (PI: [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)) at [Seoul National University](http://snu.ac.kr/), worked for several deep learning projects, and received M.S. in Cognitive Science with research on comparison between human and neural net intelligent behaviors.
-During my undergradute at [Kwangwoon University](http://www.kw.ac.kr/), I earned B.Eng. in computer science and B.S. in mathematics and was especially interested in solving mathematical problems with computational methods, database management, and computer graphics in perspective of simulating physical phenomenona in the virtual enviroments.
+During my undergradute at [Kwangwoon University](http://www.kw.ac.kr/), I was especially interested in solving mathematical problems with computational methods, database management, and computer graphics in perspective of simulating physical phenomenona in the virtual enviroments, and earned B.Eng. in computer science and B.S. in mathematics.
 
 ## My interests
 - Connectionism, artificial neural networks, machine learning, deep learning, neuroscience-inspired AI
