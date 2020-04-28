@@ -20,7 +20,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-  <!--  
+  
     {% if author.location %}
         <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}<br>
       {% endif %}
@@ -36,7 +36,10 @@
     {% if author.googlescholar %}
         <span style="color: #4C4D52"><i class="fa fa-fw fa-graduation-cap"></i></span><a href="{{ author.googlescholar }}" style="text-decoration:none; color: #4C4D52"> Google Scholar</a><br>
     {% endif %}
-    -->
+    {% if author.linkedin %}
+        <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i><a href="https://www.linkedin.com/in/{{ author.linkedin }}" style="text-decoration:none; color: #4C4D52"> LinkedIn</a></li>
+    {% endif %}
+      <!--
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
@@ -125,6 +128,6 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-    </ul>
+    </ul>-->
   </div>
 </div>
