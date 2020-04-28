@@ -27,6 +27,15 @@
     {% if author.email %} 
         <span style="color: #3e78ad"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i></span><a href="mailto:{{ author.email }}" style="text-decoration:none; color: #4C4D52"> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><br>
     {% endif %}
+    {% if author.linkedin %}
+        <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i><a href="https://www.linkedin.com/in/{{ author.linkedin }}" style="text-decoration:none; color: #4C4D52"> LinkedIn</a><br>
+    {% endif %}
+    {% if author.facebook %}
+        <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i><a href="https://www.facebook.com/{{ author.facebook }}" style="text-decoration:none; color: #4C4D52">Facebook</a><br>
+    {% endif %}
+    {% if author.instagram %}
+        <i class="fa fa-fw fa-instagram" aria-hidden="true"></i><a href="https://instagram.com/{{ author.instagram }}"  style="text-decoration:none; color: #4C4D52">Instagram</a><br>
+    {% endif %}
     {% if author.twitter %}
         <span style="color: #55acee"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></span><a href="https://twitter.com/{{ author.twitter }}" style="text-decoration:none; color: #4C4D52"> Twitter</a><br>
     {% endif %}
@@ -36,9 +45,7 @@
     {% if author.googlescholar %}
         <span style="color: #4C4D52"><i class="fa fa-fw fa-graduation-cap"></i></span><a href="{{ author.googlescholar }}" style="text-decoration:none; color: #4C4D52"> Google Scholar</a><br>
     {% endif %}
-    {% if author.linkedin %}
-        <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i><a href="https://www.linkedin.com/in/{{ author.linkedin }}" style="text-decoration:none; color: #4C4D52"> LinkedIn</a></li>
-    {% endif %}
+
       <!--
     <ul class="author__urls social-icons">
       {% if author.location %}
